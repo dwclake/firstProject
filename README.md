@@ -1,2 +1,2 @@
 # firstProject
-This is a discription
+This is a description
